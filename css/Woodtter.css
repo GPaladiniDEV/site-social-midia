@@ -1,0 +1,75 @@
+.container-fluid {
+    background-color: #289de8;
+}
+.imgcode {
+    padding-right: 10%;
+}
+
+.bloco1 {
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    border: 1px solid;
+    height: 800px;
+    margin: auto;
+    margin-bottom: auto;
+    border-color: black;
+}
+
+.marcus {
+    border-radius: 20px;
+    font-size: small;
+}
+
+.css-901oao {
+    border: 0 solid black;
+    box-sizing: border-box;
+    color: rgba(0,0,0,1.00);
+    display: inline;
+    font: 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.mv {
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+h6 {
+    text-align: justify;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+} 
+
+.like {
+    margin-left: 90%;
+    margin-bottom: -5%;
+}
+
+.comenta {
+    margin-left: 80%;
+    transform: translateY(-100%);
+    margin-bottom: -9%;
+}
+
+.wanda {
+    margin-left: 30%;
+    padding-bottom: 20px;
+    margin-bottom: 50%;
+}
+
+footer {
+    background-color: #289de8;
+    margin-top: 10px;
+}
